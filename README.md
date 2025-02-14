@@ -1,2 +1,3 @@
 # Revenant-Rebinding
-키세팅
+- 키 세팅
+- pc, playstation, xbox, steamcontroller, etc
